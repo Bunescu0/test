@@ -2,7 +2,7 @@
 
 int main (void)
 {
-  printf("First brach");
+  printf("First branch");
 
 
   return0;
